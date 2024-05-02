@@ -29,7 +29,7 @@ Check out my portfolio to see some of my projects and learn more about me: [Port
 - LinkedIn: [Archit Aggarwal](https://www.linkedin.com/in/architagg07/)
 
 📊 **GitHub Stats:**  
-![Archit Aggarwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryaGupta01&show_icons=true&theme=radical)
+![Archit Aggarwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archit-24&show_icons=true&theme=radical)
 
 🔗 **Projects:**  
 - [Music Chrome Extension](https://aryagupta01.github.io/Music-Chrome-Extension/)
