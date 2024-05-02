@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 👯 **Open to Collaborations:**  
 I’m looking to collaborate on interesting projects and contribute to open-source communities. If you have any exciting opportunities or projects in mind, feel free to reach out!
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/architagg07/) | [Portfolio](https://aryagupta01.github.io/Portfolio-Website/)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/architagg07/) | [Portfolio](https://dev-archit-portfolio.pantheonsite.io/)
 ## 🌐 Portfolio
 
 Check out my portfolio to see some of my projects and learn more about me: [Portfolio](https://dev-archit-portfolio.pantheonsite.io/)
