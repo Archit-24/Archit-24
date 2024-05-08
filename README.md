@@ -27,6 +27,8 @@ Check out my portfolio to see some of my projects and learn more about me: [Port
 - GitHub: [Archit-24](https://github.com/Archit-24)
 - LinkedIn: [Archit Aggarwal](https://www.linkedin.com/in/architagg07/)
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <h3 align="left">Languages and Tools:</h3>
 
 - Backend
@@ -63,6 +65,8 @@ Check out my portfolio to see some of my projects and learn more about me: [Port
     <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
   </a>
 </p>
+<br/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 📊 **GitHub Stats:**  
 ![Archit Aggarwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archit-24&show_icons=true&theme=radical)
