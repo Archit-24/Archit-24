@@ -31,8 +31,8 @@ Check out my portfolio to see some of my projects and learn more about me: [Port
 📊 **GitHub Stats:**  
 ![Archit Aggarwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archit-24&show_icons=true&theme=radical)
 
-🔗 **Projects:**  
-- [Music Chrome Extension](https://aryagupta01.github.io/Music-Chrome-Extension/)
-- [Vista AI](https://aryagupta01.github.io/VISTA-AI/)
+🔗 **Top Projects:**  
+- [Blockchain Privacy Preservation](https://github.com/Archit-24/Blockchain-Privacy-Preservation.git)
+- [Medical Image Analysis](https://github.com/Archit-24/Medical-Image-Analysis.git)
 
 Feel free to explore my repositories and don't hesitate to connect with me! Let's create something amazing together!
