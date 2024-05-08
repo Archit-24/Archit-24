@@ -29,17 +29,17 @@ Check out my portfolio to see some of my projects and learn more about me: [Port
 
 ## 🖥️ Languages and Tools
 
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
-  </a>
-</p>
-
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+  </a>
+</p>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
   </a>
 </p>
 
@@ -67,6 +67,7 @@ Check out my portfolio to see some of my projects and learn more about me: [Port
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 📊 **GitHub Stats:**  
+
 ![Archit Aggarwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archit-24&show_icons=true&theme=radical)
 
 🔗 **Top Projects:**  
