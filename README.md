@@ -34,5 +34,6 @@ Check out my portfolio to see some of my projects and learn more about me: [Port
 🔗 **Top Projects:**  
 - [Blockchain Privacy Preservation](https://github.com/Archit-24/Blockchain-Privacy-Preservation.git)
 - [Medical Image Analysis](https://github.com/Archit-24/Medical-Image-Analysis.git)
+- [Music Player Extension](https://github.com/Archit-24/Music-Player-Extension.git)
 
 Feel free to explore my repositories and don't hesitate to connect with me! Let's create something amazing together!
