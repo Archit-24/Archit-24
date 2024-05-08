@@ -46,21 +46,14 @@ Check out my portfolio to see some of my projects and learn more about me: [Port
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-  </a>
-</p>
-
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,nodejs" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
   </a>
 </p>
 <br/>
