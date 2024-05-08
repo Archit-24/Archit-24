@@ -46,14 +46,14 @@ Check out my portfolio to see some of my projects and learn more about me: [Port
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,nodejs" />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql," />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,wordpress" />
   </a>
 </p>
 <br/>
