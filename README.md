@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 👯 **Open to Collaborations:**  
 I’m looking to collaborate on interesting projects and contribute to open-source communities. If you have any exciting opportunities or projects in mind, feel free to reach out!
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/architagg07/) | [Portfolio](https://dev-archit-portfolio.pantheonsite.io/)
 ## 🌐 Portfolio
 
 Check out my portfolio to see some of my projects and learn more about me: [Portfolio](https://dev-archit-portfolio.pantheonsite.io/)
@@ -27,6 +26,43 @@ Check out my portfolio to see some of my projects and learn more about me: [Port
 
 - GitHub: [Archit-24](https://github.com/Archit-24)
 - LinkedIn: [Archit Aggarwal](https://www.linkedin.com/in/architagg07/)
+
+<h3 align="left">Languages and Tools:</h3>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+  </a>
+</p>
 
 📊 **GitHub Stats:**  
 ![Archit Aggarwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Archit-24&show_icons=true&theme=radical)
