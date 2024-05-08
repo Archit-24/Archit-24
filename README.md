@@ -32,14 +32,14 @@ Check out my portfolio to see some of my projects and learn more about me: [Port
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
   </a>
 </p>
 
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=php,nodejs,py" />
   </a>
 </p>
 
