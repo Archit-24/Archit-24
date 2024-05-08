@@ -27,7 +27,7 @@ Check out my portfolio to see some of my projects and learn more about me: [Port
 - GitHub: [Archit-24](https://github.com/Archit-24)
 - LinkedIn: [Archit Aggarwal](https://www.linkedin.com/in/architagg07/)
 
-## </>🖥️ Languages and Tools
+## 🖥️ Languages and Tools
 
 - Backend
 <p align="left">
