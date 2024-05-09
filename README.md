@@ -60,7 +60,7 @@ Check out my portfolio to see some of my projects and learn more about me: [Port
 - Photo & Video Editing Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=photoshop,premiere pro,canva,clipchamp" />
+    <img src="https://skillicons.dev/icons?i=photoshop,premiere pro" />
   </a>
 </p>
 <br/>
