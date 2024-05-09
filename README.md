@@ -75,6 +75,8 @@ Check out my portfolio to see some of my projects and learn more about me: [Port
 - [Medical Image Analysis](https://github.com/Archit-24/Medical-Image-Analysis.git)
 - [Music Player Extension](https://github.com/Archit-24/Music-Player-Extension.git)
 
+---
+
 <h4> Connect with me🤝: <h4>
   </hr>
   <a href="https://www.linkedin.com/in/ratheshan-sathiyamoorthy-3aa2891b9/">
