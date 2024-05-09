@@ -32,7 +32,7 @@ Check out my portfolio to see some of my projects and learn more about me: [Port
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
   </a>
 </p>
 
