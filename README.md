@@ -77,7 +77,7 @@ Check out my portfolio to see some of my projects and learn more about me: [Port
 
 ---
 
-<h4> Connect with me🤝: <h4>
+<h3> Connect with me🤝: <h3>
   </hr>
   <a href="https://www.linkedin.com/in/ratheshan-sathiyamoorthy-3aa2891b9/">
    <img align="left" alt=" Ratheshan Sathiyamoorthy | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
