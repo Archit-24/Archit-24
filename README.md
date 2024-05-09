@@ -46,7 +46,7 @@ Check out my portfolio to see some of my projects and learn more about me: [Port
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql," />
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   </a>
 </p>
 
@@ -54,6 +54,13 @@ Check out my portfolio to see some of my projects and learn more about me: [Port
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,wordpress" />
+  </a>
+</p>
+
+- Photo & Video Editing Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=photoshop,premiere pro, photopea" />
   </a>
 </p>
 <br/>
