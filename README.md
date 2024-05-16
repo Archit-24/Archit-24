@@ -20,7 +20,7 @@ I’m looking to collaborate on interesting projects and contribute to open-sour
 
 ## 🌐 Portfolio
 
-Check out my portfolio to see some of my projects and learn more about me: [Portfolio](https://dev-archit-portfolio.pantheonsite.io/)
+Check out my portfolio to see some of my projects and learn more about me: [Portfolio](https://dev-archit-portfolio.pantheonsite.io/) <br>
 View my Figma Designs: [My Designs](https://behance.net/Archit-UI)
 
 ## 🤝 Connect with Me
