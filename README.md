@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in building web applications and exploring new technologies. Here's a little bit about me:
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Archit-24&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 🔭 **Currently Working On:**  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
 - Web Development Projects
 - Python and Machine learning concepts
