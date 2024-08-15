@@ -37,7 +37,7 @@ View my Figma Designs: [My Designs](https://behance.net/Archit-UI)
 - Data Engineering
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spark,python,mysql,scala,r" />
+    <img src="https://skillicons.dev/icons?i=azure,python,mysql,scala,r" />
   </a>
 </p>
 
