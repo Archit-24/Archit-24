@@ -34,6 +34,13 @@ View my Figma Designs: [My Designs](https://behance.net/Archit-UI)
 
 ## 🖥️ Languages and Tools
 
+- Data Engineering
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,sql,scala,r" />
+  </a>
+</p>
+
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
