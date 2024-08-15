@@ -5,11 +5,13 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ![trophy](https://github-profile-trophy.vercel.app/?username=Archit-24&title=Stars,Followers,Commits,Repositories&theme=onedark)<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
 
 🔭 **Currently Working On:**  
+- Data Engineering and Analysis
 - Web Development Projects
 - Python and Machine learning concepts
 - Diving deep into the world of blockchain
 
 🌱 **Learning & Interests:**  
+- DataBricks, Apache Spark
 - Python and Machine learning
 - Frontend Frameworks (Tailwind CSS, React)
 - Database Management (MongoDB, MySQL, PHP)
