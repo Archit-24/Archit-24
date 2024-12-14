@@ -51,7 +51,7 @@ View my Figma Designs: [My Designs](https://behance.net/Archit-UI)
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,nodejs,py" />
+    <img src="https://skillicons.dev/icons?i=clerk,php,nodejs,py" />
   </a>
 </p>
 
